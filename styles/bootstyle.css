@@ -1,0 +1,18 @@
+.center {
+  text-align: center;
+}
+
+.custom-navigation {
+  background-color: #AAA;
+  height: 100px;
+  width: 100%;
+}
+
+.custom-tableau {
+  background-color: #CCC;
+  width: 100%;
+}
+
+.custom-footer {
+  width: 100%;
+}

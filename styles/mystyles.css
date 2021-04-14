@@ -1,0 +1,19 @@
+h1 {
+  font-size: 75px !important;
+}
+
+p {
+  font-family: Open Sans !important;
+}
+
+.bold {
+  font-weight: bold !important;
+}
+
+.italics {
+  font-style: italic !important;
+}
+
+.center {
+  margin: 20px auto;
+}
